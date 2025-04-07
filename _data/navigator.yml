@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Malware Analysis"
+    url: /categories/#malware-analysis
+  - title: "Forensics"
+    url: /categories/#forensics
+  - title: "Blog"
+    url: /categories/#blog
+  - title: "All Categories"
+    url: /categories
