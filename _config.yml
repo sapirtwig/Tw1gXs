@@ -240,6 +240,19 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+# Navigation menu
+menu:
+  - title: Home
+    url: /
+  - title: Categories
+    sublinks:
+      - title: Malware Analysis
+        url: /categories/malware-analysis/
+      - title: Reverse Engineering
+        url: /categories/reverse-engineering/
+      - title: Practical Malware Analysis
+        url: /categories/practical-malware-analysis/
+      # Add other categories as needed
 
 # Archives
 #  Type
