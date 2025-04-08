@@ -2,9 +2,9 @@
 main:
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
-  - title: "Forensics"
-    url: /categories/#forensics
-  - title: "Blog"
-    url: /categories/#blog
+  - title: "Practical Malware Analysis"
+    url: /categories/#PMA-labs
+  - title: "Reverse Engineering"
+    url: /categories/#reverse-engineering
   - title: "All Categories"
     url: /categories
