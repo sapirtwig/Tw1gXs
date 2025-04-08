@@ -1,10 +1,12 @@
 # main links
 main:
+ - title: "Home"
+    url: "/"
   - title: "Malware Analysis"
-    url: /categories/#malware-analysis
+    url: "/tags/malware-analysis/"
   - title: "Practical Malware Analysis"
-    url: /categories/#PMA-labs
+    url: /tags/PMA-labs
   - title: "Reverse Engineering"
-    url: /categories/#reverse-engineering
-  - title: "All Categories"
-    url: /categories
+    url: /tags/reverse-engineering
+  - title: "Tags"
+    url: /tags
