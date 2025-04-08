@@ -105,7 +105,7 @@ author:
   name             : "Sapir Twig"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis & Reverse Engineering"
-  location         : "127.0.0.1"
+  location         : "Tel Aviv, Israel"
   email            :
   links:
     - label: "Email"
